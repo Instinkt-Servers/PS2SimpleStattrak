@@ -13,4 +13,4 @@ After installation you will find your Stattrak Item under "Uncategorized items" 
 
 Sorry, i dont have a better Screenshot
 
-![image](https://imgur.com/rj2krC6)
+![image](https://i.imgur.com/rj2krC6.jpg)
