@@ -2,14 +2,13 @@
 This Script is made by Instinkt https://steamcommunity.com/id/InstinktServers and is under GPL-3.0 License.
 --]]
 
-#NoSimplerr#
 resource.AddFile("materials/mat_jack_job_gradient.vmt")
 resource.AddFile("materials/tex_jack_job_gradient.vtf")
 resource.AddFile("materials/mat_jack_job_modul.vmt")
 resource.AddFile("materials/tex_jack_job_modul.vtf")
 ITEM.baseClass	= "base_hat"
 ITEM.PrintName	= "Stattrak Modul"
-ITEM.Description = "Zähle deine Kills mit!"
+ITEM.Description = "ZÃ¤hle deine Kills mit!"
 ITEM.Price = {
 	points = 1000000,
 }
